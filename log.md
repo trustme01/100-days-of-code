@@ -28,3 +28,12 @@
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 4: January 5, 2018
+
+### Day 5: January 6, 2018
+
+**Today's Progress**: Completed my daily DataCamp practice. 
+
+**Thoughts:**: If I had commited to this challange as a New Year's Resolution I probably would've given up since I had missed 2 days due to the fact I was working at a friends business. While I was working though, I had this nagging feeling of completing my daily practice, which feels like not a goal, but a must do a feeling comparable to having to pay bills. 
+
