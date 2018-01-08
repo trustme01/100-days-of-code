@@ -18,7 +18,6 @@
 
 <!-- **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
 ### Day 3: January 4, 2018
 
 <!-- **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -36,4 +35,10 @@
 **Today's Progress**: Completed my daily DataCamp practice. 
 
 **Thoughts:**: If I had commited to this challange as a New Year's Resolution I probably would've given up since I had missed 2 days due to the fact I was working at a friends business. While I was working though, I had this nagging feeling of completing my daily practice, which feels like not a goal, but a must do a feeling comparable to having to pay bills. 
+
+### Day 8: January 8, 2018
+
+**Today's Progress**: Completed my daily DataCamp practice and on a 3 day streak! 
+
+**Thoughts:**: Ditto as above! 
 
