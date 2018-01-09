@@ -36,9 +36,15 @@
 
 **Thoughts:**: If I had commited to this challange as a New Year's Resolution I probably would've given up since I had missed 2 days due to the fact I was working at a friends business. While I was working though, I had this nagging feeling of completing my daily practice, which feels like not a goal, but a must do a feeling comparable to having to pay bills. 
 
-### Day 8: January 8, 2018
+### Day 7: January 8, 2018
 
 **Today's Progress**: Completed my daily DataCamp practice and on a 3 day streak! 
 
 **Thoughts:**: Ditto as above! 
+
+### Day 8: January 9, 2018
+
+**Today's Progress**: Completed my daily DataCamp practice and on a 4 day streak. Also, FINALLY finished the Python DataScience ToolBox part 2 course and got a certificate! 
+
+**Link(s) to work**: https://www.datacamp.com/statement-of-accomplishment/course/1c085c732efefdae83b8352ca8bf618fd46e3ead
 
