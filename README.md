@@ -2,7 +2,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](https://github.com/trustme01/100DaysOfCode/blob/master/Logs)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
